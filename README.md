@@ -11,24 +11,14 @@ A modern web application built with React, TypeScript, and Vite for managing bar
 - **User Accounts**: Manage appointments and preferences
 - **Admin Dashboard**: For barbers to manage their schedule and appointments
 
-## 🛠️ Tech Stack
+## Credentails
 
-- **Frontend**: React 18 with TypeScript
-- **Styling**: Tailwind CSS
-- **State Management**: React Query & Zustand
-- **Build Tool**: Vite
-- **Type Safety**: TypeScript
-- **API Client**: Axios
-- **Form Handling**: React Hook Form
-- **Date Management**: date-fns
-- **UI Components**: Shadcn/ui
+### Admin
 
-## 📁 Project Structure
+- email: mike.admin@barbershop.com
+- password: password123
 
-```bash
-src/
-├── components/     # Reusable UI components
-│   ├── layout/    # Layout components
-│   ├── ui/        # UI elements
-│   └
-# barbershop_task
+### Client
+
+- email: david.smith@gmail.com
+- password: password123
